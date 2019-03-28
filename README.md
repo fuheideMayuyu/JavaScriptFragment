@@ -1,0 +1,2 @@
+# JavaScriptFragment
+超实用的JavaScript代码片段
